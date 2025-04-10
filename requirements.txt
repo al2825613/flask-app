@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+Flask-Limiter
+Flask-Caching
+requests
+Werkzeug
